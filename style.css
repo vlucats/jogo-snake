@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+}
+
+.corpo{
+    padding-top: 50px;
+    display:flex;
+    justify-content: center;
+}
