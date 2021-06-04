@@ -1,15 +1,15 @@
 *{
-    background-color: grey;
+    background-color:lightgray;
 }
-.corpo{
-    padding-top: 20px;
+body{
+    padding-top: 5px;
     display:flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
-.corpo p{
+body h1{
     font-style: bold;
     font-family: 'Arial Black';
     color: green;
